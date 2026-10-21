@@ -4,10 +4,13 @@ description: 'Dein Einstieg ins Netzwerk und Hilfe direkt fürs Spiel.'
 icon: lucide:book-open-text
 ---
 
-Willkommen! Hier findest du die ersten Schritte, Spielmodi und Befehle für sirargon.net.
+Willkommen auf sirargon.net! Hier findest du alles, was du zum Spielen brauchst.
 
-- [Losspielen](/getting-started/connect): Adresse, Java-Versionen und Modpack.
-- [Im Spiel](/guides): Spielmodi, Freunde, Party, Clan und dein Account.
-- [Befehle](/reference/commands) und [FAQ](/reference/faq): schnell nachschlagen.
+- [Einstieg](/getting-started): verbinden, erste Schritte, Lobby und Hilfe.
+- [Account & Community](/guides): Account, Freunde, Party, Chat, Clans und Einstellungen.
+- [Spielmodi](/game-modes): SMP und Creative.
+- [Regeln & Mods](/reference): was erlaubt ist.
+- [Befehle](/commands): alle Befehle nach Thema.
+- [FAQ](/faq): schnelle Antworten.
 
-Du brauchst für den Einstieg Minecraft: Java Edition. Voice-Chat ist optional.
+Du brauchst Minecraft: Java Edition. Im Spiel hilft dir jederzeit `/guide`.

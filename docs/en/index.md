@@ -4,10 +4,13 @@ description: 'Your first steps on the network and help for playing.'
 icon: lucide:book-open-text
 ---
 
-Welcome! Find your first steps, game modes and commands for sirargon.net here.
+Welcome to sirargon.net! Here you find everything you need to play.
 
-- [Start playing](/getting-started/connect): address, Java versions and modpack.
-- [In game](/guides): game modes, friends, parties, clans and your account.
-- [Commands](/reference/commands) and [FAQ](/reference/faq): quick answers.
+- [Getting started](/getting-started): connect, first steps, lobby and help.
+- [Account & community](/guides): account, friends, party, chat, clans and settings.
+- [Game modes](/game-modes): SMP and Creative.
+- [Rules & mods](/reference): what is allowed.
+- [Commands](/commands): all commands by topic.
+- [FAQ](/faq): quick answers.
 
-You need Minecraft: Java Edition to get started. Voice chat is optional.
+You need Minecraft: Java Edition. In game, `/guide` helps you at any time.

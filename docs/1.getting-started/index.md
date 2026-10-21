@@ -1,10 +1,15 @@
 ---
 title: 'Einstieg'
-description: 'Verbinde dich und leg los.'
+description: 'Verbinde dich, sieh dich in der Lobby um und hol dir Hilfe.'
 icon: lucide:compass
 ---
 
-Neu hier? Unter [Verbinden](/getting-started/connect) findest du alles für deinen ersten Beitritt.
+Neu hier? In vier Schritten bist du startklar:
+
+1. [Verbinden](/getting-started/connect): Adresse, Version und Modpack.
+2. [Erste Schritte](/getting-started/first-steps): Bestätigungen und dein erster Spielmodus.
+3. [Lobby](/getting-started/lobby): Hotbar, NPCs und was du dort machen kannst.
+4. [Hilfe](/getting-started/help): Guide, Fehler melden und Spieler melden.
 
 ::page-cards
 ::
