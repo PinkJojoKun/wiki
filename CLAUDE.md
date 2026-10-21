@@ -19,7 +19,7 @@ packages here. Read `README.md`, `SOURCES.md` and `CONTRIBUTING.md` first.
   by `en-GB` and `en-US`. Every German page change includes its English counterpart
   at the identical slug and numeric prefix.
 - Frontmatter has `title`, `description` and `icon`. Do not duplicate the title
-  as a body H1. Use absolute content links; duxt supplies version/locale prefixes.
+  as a body H1. Use absolute content links; duxt supplies locale prefixes.
 - Verify every gameplay claim against the monorepo. `SOURCES.md` records evidence.
   Unknown material is explicitly “In Arbeit / Work in progress”, never invented.
 - Address players as “du”; write short, direct sentences. Never name another
@@ -39,10 +39,10 @@ packages here. Read `README.md`, `SOURCES.md` and `CONTRIBUTING.md` first.
 - Keep `.claude/settings.json` and `.codex/rules/default.rules` command bans in
   sync; `pnpm check:policy` verifies parity. Never allow arbitrary execution.
 
-## Versions
+## Publishing
 
-`release-please-config.json` and `.release-please-manifest.json` own release
-metadata. Wiki tags version the content, not Minecraft. Branch from `dev`, target
-`dev`, promote into `main` with a merge commit. Never rewrite a published tag.
+The wiki is not versioned: no release tags, no release-please, no version
+switcher. The website builds `main`. Branch from `dev`, target `dev`, promote
+into `main` with a merge commit.
 No commit, push, tag or release action is implied by a content-editing request;
 follow the session's explicit authorization.

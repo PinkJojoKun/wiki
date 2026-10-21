@@ -31,13 +31,12 @@ See the README for previewing the working tree in the monorepo app.
 - Keep unknown material clearly marked as work in progress.
 - Run `pnpm check` and preview both languages in the app.
 
-## Branches and releases
+## Branches and publishing
 
 Branch from `dev` and target `dev`. Conventional Commits are enforced by
 commitlint; keep Husky hooks active. New player topics use `feat:`, corrections
-use `fix:`. `dev` is promoted into `main` with a merge commit. The release-please
-workflow publishes version tags after its release PR is merged, as described in
-the README.
+use `fix:`. `dev` is promoted into `main` with a merge commit. The wiki is not
+versioned; the website shows `main` after the next wiki image build.
 
 ## Rights
 
