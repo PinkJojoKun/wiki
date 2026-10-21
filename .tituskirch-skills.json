@@ -23,11 +23,6 @@
       "convention": "conventional"
     }
   },
-  "release": {
-    "promote": "auto",
-    "stages": ["dev", "main"],
-    "timeout": 600
-  },
   "mergeDeps": {
     "merge": "grouped"
   },
