@@ -23,9 +23,7 @@ You can live in one city.
 
 ## Size
 
-A chunk is 16 × 16 blocks and covers the full height. A new city has room for 25 chunks, for example 5 × 5 chunks, which is 80 × 80 blocks. You choose the shape yourselves. Every new chunk must share a side with a chunk of the city.
-
-From version 0.12, newly founded cities start with 16 chunks, which is 4 × 4 chunks or 64 × 64 blocks. Existing cities keep their starting size of 25 chunks.
+A chunk is 16 × 16 blocks and covers the full height. A new city has room for 16 chunks, for example 4 × 4 chunks, which is 64 × 64 blocks. You choose the shape yourselves. Every new chunk must share a side with a chunk of the city.
 
 How many chunks your city may occupy depends on two limits. The smaller one applies:
 

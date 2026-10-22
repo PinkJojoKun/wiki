@@ -23,9 +23,7 @@ Du kannst in einer Stadt wohnen.
 
 ## Größe
 
-Ein Chunk ist 16 × 16 Blöcke groß und reicht über die volle Höhe. Eine neue Stadt hat Platz für 25 Chunks, zum Beispiel 5 × 5 Chunks, also 80 × 80 Blöcke. Die Form bestimmt ihr selbst. Jeder neue Chunk muss mit einer Seite an einen Chunk der Stadt grenzen.
-
-Ab Version 0.12 starten neu gegründete Städte mit 16 Chunks, also 4 × 4 Chunks oder 64 × 64 Blöcke. Bestehende Städte behalten ihre Startgröße von 25 Chunks.
+Ein Chunk ist 16 × 16 Blöcke groß und reicht über die volle Höhe. Eine neue Stadt hat Platz für 16 Chunks, zum Beispiel 4 × 4 Chunks, also 64 × 64 Blöcke. Die Form bestimmt ihr selbst. Jeder neue Chunk muss mit einer Seite an einen Chunk der Stadt grenzen.
 
 Wie viele Chunks eure Stadt belegen darf, hängt von zwei Grenzen ab. Es gilt die kleinere:
 
