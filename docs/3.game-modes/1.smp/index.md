@@ -35,7 +35,7 @@ Verlässt du den Discord, bekommst du eine Warnung. Trittst du nicht rechtzeitig
 - `/stats` zeigt deine Statistiken.
 - `/credits` zeigt die Urheber der Inhalte.
 
-Lies die [Regeln](/reference/rules) für das SMP. Litematica ist im SMP verboten, siehe [Mods](/reference/mods).
+Lies die [Regeln](/reference/rules) für das SMP. Litematica ist erlaubt, automatisches Platzieren wie Easy Place oder Printer aber verboten, siehe [Mods](/reference/mods).
 
 ::page-cards
 ::

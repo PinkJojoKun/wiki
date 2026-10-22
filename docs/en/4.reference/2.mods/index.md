@@ -19,7 +19,11 @@ This applies to every name, version and fork.
 
 ## Forbidden in the SMP
 
-- Litematica and other schematic mods
+- Automatic placement: Litematica's Easy Place mode
+- Printer mods and add-ons, for example Litematica Printer
+- Any other mod that places blocks by itself
+
+Litematica itself is allowed in the SMP: load schematics, show them as a preview, use material lists and check your build with the verifier. Place every block yourself.
 
 ## Map mods
 
