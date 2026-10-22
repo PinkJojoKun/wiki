@@ -25,6 +25,13 @@ Das gilt für jeden Namen, jede Version und jeden Fork.
 
 Litematica selbst ist im SMP erlaubt: Schematics laden, als Vorschau einblenden, Materiallisten nutzen und deinen Bau mit dem Verifier prüfen. Jeden Block setzt du selbst.
 
+## Easy Place und Printer ausschalten
+
+1. Öffne mit `M` das Litematica-Menü und klick auf **Konfiguration**. Alternativ drückst du `M` + `C`.
+2. Stell im Reiter **Generic** die Option `easyPlaceMode` auf **false**.
+3. Entferne im Reiter **Hotkeys** die Belegung von `easyPlaceToggle`. So schaltest du Easy Place nicht aus Versehen wieder ein.
+4. Lösch Printer-Mods und -Add-ons aus deinem `mods`-Ordner. Ausschalten reicht nicht, sie dürfen im SMP nicht installiert sein.
+
 ## Karten-Mods
 
 - Oberflächenkarte: erlaubt
