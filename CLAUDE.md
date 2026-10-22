@@ -11,7 +11,7 @@ copy it wholesale over the other; never repeat the edit by hand.
 
 This is a content-only repository. Markdown lives in `docs/`; the website is
 `apps/wiki` in the private `mc-network` monorepo. Do not add Nuxt or runtime
-packages here. Read `README.md`, `SOURCES.md` and `CONTRIBUTING.md` first.
+packages here. Read `README.md` and `CONTRIBUTING.md` first.
 
 ## Content
 
@@ -20,7 +20,8 @@ packages here. Read `README.md`, `SOURCES.md` and `CONTRIBUTING.md` first.
   at the identical slug and numeric prefix.
 - Frontmatter has `title`, `description` and `icon`. Do not duplicate the title
   as a body H1. Use absolute content links; duxt supplies locale prefixes.
-- Verify every gameplay claim against the monorepo. `SOURCES.md` records evidence.
+- Verify every gameplay claim against the monorepo. Evidence is recorded in
+  `apps/wiki/SOURCES.md` there, never in this repository.
   Unknown material is explicitly “In Arbeit / Work in progress”, never invented.
 - Address players as “du”; write short, direct sentences. Never name another
   Minecraft network or server anywhere. Comments are English.

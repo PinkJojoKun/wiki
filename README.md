@@ -20,7 +20,7 @@ Edit Markdown in `docs/`. The website lives in the private `mc-network` monorepo
 - First steps, game modes, friends, parties, clans, voice chat and your account.
 - German originals and a complete English translation shared by both English regions.
 - One unversioned edition: the website always shows `main`.
-- No undocumented gameplay promises: [SOURCES.md](SOURCES.md) maps topics to their evidence.
+- No undocumented gameplay promises: `apps/wiki/SOURCES.md` in the monorepo maps topics to their evidence.
 
 ## 🚀 Setup
 

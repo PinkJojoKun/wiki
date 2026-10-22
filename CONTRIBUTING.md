@@ -24,7 +24,7 @@ See the README for previewing the working tree in the monorepo app.
 
 ## Content review
 
-- Verify gameplay facts against the monorepo and update [SOURCES.md](SOURCES.md).
+- Verify gameplay facts against the monorepo and update `apps/wiki/SOURCES.md` there.
 - Change the German original and the English translation in the same PR.
 - Keep slugs identical and use `title`, `description` and `icon` frontmatter.
 - Use short, direct language; never mention another Minecraft network or server.
