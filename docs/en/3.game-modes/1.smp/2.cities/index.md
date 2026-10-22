@@ -17,9 +17,30 @@ A city is a shared territory made of whole chunks. You manage it together, assig
 
 ## Found a city
 
-Founding a city needs a certain network level and silver. `/city` shows what you are missing. You always see the costs before you confirm.
+Founding a city needs network level 5 and 100,000 silver. `/city` shows what you are missing. You always see the costs before you confirm.
 
 You can live in one city.
+
+## Size
+
+A chunk is 16 × 16 blocks and covers the full height. A new city has room for 25 chunks, for example 5 × 5 chunks, which is 80 × 80 blocks. You choose the shape yourselves. Every new chunk must share a side with a chunk of the city.
+
+From version 0.12, newly founded cities start with 16 chunks, which is 4 × 4 chunks or 64 × 64 blocks. Existing cities keep their starting size of 25 chunks.
+
+How many chunks your city may occupy depends on two limits. The smaller one applies:
+
+- **Bought capacity:** the starting size, plus 4 chunks per expansion.
+- **Residents:** the starting size, plus 4 chunks per 2 residents. You count as founder.
+
+| Residents | Chunks at most (start 25) | Chunks at most (start 16) |
+| --------- | ------------------------- | ------------------------- |
+| 1         | 25                        | 16                        |
+| 2–3       | 29                        | 20                        |
+| 4–5       | 33                        | 24                        |
+| 10–11     | 45                        | 36                        |
+| 20–21     | 65                        | 56                        |
+
+Outpost chunks count towards these limits. You add at most 25 chunks per confirmation.
 
 ## Distances
 
@@ -40,7 +61,11 @@ Cities only exist in the Overworld.
 
 ## Grow
 
-**Buy chunk capacity** gives your city room for more chunks. **Add current chunk** adds the chunk you stand in. Under **Land management** you look at the chunks before confirming.
+**Buy chunk capacity** gives your city room for 4 more chunks. It costs 2,500 silver per chunk, so 10,000 silver per expansion. The treasury pays.
+
+**Add current chunk** adds the chunk you stand in. Under **Land management** you look at the chunks before confirming.
+
+You can only use bought capacity once you have enough residents. More chunks also mean more [upkeep](/game-modes/smp/cities/treasury).
 
 ## Permissions
 
