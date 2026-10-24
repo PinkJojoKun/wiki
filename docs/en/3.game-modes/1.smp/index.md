@@ -22,6 +22,7 @@ If you leave the Discord, you get a warning. If you do not rejoin in time, you r
 - You protect your builds with a [camp](/game-modes/smp/camps) or in a [city](/game-modes/smp/cities).
 - Your sidebar shows your silver and your SMP level.
 - Villagers do not trade, see [Villagers](/game-modes/smp/villagers).
+- The world has three realms: Overworld, Nether and End. We announce when the Nether opens, see [Realms](/game-modes/smp/realms).
 
 ## First steps in the SMP
 

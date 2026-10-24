@@ -22,6 +22,7 @@ Verlässt du den Discord, bekommst du eine Warnung. Trittst du nicht rechtzeitig
 - Deine Bauten schützt du mit einem [Camp](/game-modes/smp/camps) oder in einer [Stadt](/game-modes/smp/cities).
 - Deine Seitenleiste zeigt dein Silber und dein SMP-Level.
 - Villager handeln nicht, siehe [Villager](/game-modes/smp/villagers).
+- Die Welt hat drei Reiche: Overworld, Nether und End. Wann der Nether öffnet, sagen wir an, siehe [Reiche](/game-modes/smp/realms).
 
 ## Erste Schritte im SMP
 
